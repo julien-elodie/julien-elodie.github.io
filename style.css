@@ -148,7 +148,7 @@ body{
 
 }
 
-.script-title{
+.script-title {
 
     margin-top:18px;
 
@@ -160,6 +160,10 @@ body{
 
     font-weight:400;
 
+}
+.surb{
+   color:var(--gold);
+   font-weight:400;
 }
 
 /* ==========================================================
