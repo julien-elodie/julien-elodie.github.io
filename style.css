@@ -990,14 +990,14 @@ BADGE
 
 }
 
-.gis{
+a.gis{
 
     color:var(--gold)
     text-decoration:none;
 
 }
 
-.gis:hover{
+a.gis:hover{
 
     color:var(--gold);
 
